@@ -1,7 +1,7 @@
 Eai Galerinha, Belê? Comigo ta de Buenas!
 =============================
 
-*   🌍  Moro em Bernardino Batista/PB.
+*   🌍  Moro em Cajazeiras/PB.
 *   ✉️  Pode me mandar e-mail por aqui ô [matias.neto.edu@gmail.com].
 *   💻  Nesse momento to estudando, focado, buscando meu primeiro Emprego ai👀.
 *   🧑‍🎓  Bacharelando em Ciência da Computação.
