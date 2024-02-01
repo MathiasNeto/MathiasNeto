@@ -29,7 +29,7 @@ Eai Galerinha, Belê? Comigo ta de Buenas!
 <p align="left">
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 &nbsp;&nbsp;
-<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://icons8.com.br/icon/90519/logotipo-da-primavera" height="36" alt="Django Rest Framework" /></a>
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://www.django-rest-framework.org/img/logo.png" height="36" alt="Django Rest Framework" /></a>
 &nbsp;&nbsp;
 <br>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" height="36" alt="Spring Boot" /></a>
