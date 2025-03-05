@@ -1,4 +1,4 @@
-Eai Galerinha, Belê? Comigo ta de Buenas!
+Eai Galerinha, Belê? Comigo tá de Buenas!
 =============================
 
 *   🌍  Moro em Cajazeiras/PB.
