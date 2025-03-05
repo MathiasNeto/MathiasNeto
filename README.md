@@ -3,7 +3,7 @@ Eai Galerinha, Belê? Comigo ta de Buenas!
 
 *   🌍  Moro em Cajazeiras/PB.
 *   ✉️  Pode me mandar e-mail por aqui ô [matias.neto.edu@gmail.com].
-*   💻  Nesse momento to estudando, focado, buscando meu primeiro Emprego ai no mercado👀.
+*   💻  Nesse momento estou estudando, focado, aperfeiçoando cada vez mais e evoluindo.
 *   🧑‍🎓  Bacharel em Ciência da Computação.
 *   📚  Pesquisador e apaixonado por buscar soluções para problemas.
 *   🥽  Entusiasta em Evolução e Aprendizagem.
